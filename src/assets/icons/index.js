@@ -26,6 +26,10 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import gemini from './gemini.png'
+import quickshow from './quickshow.svg'
+import robot from './robot.png'
+import book from './book.png'
 
 export {
     css,
@@ -55,5 +59,9 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    gemini,
+    quickshow,
+    robot,
+    book
 }
